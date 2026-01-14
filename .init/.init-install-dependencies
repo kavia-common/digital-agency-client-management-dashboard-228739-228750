@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/digital-agency-client-management-dashboard-228739-228750/project_management_database"
+}
